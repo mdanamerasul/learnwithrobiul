@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+learnwithrobiul.com	TRUE	/	FALSE	1999999999	wordpress_lp_guest	2f231c083a37e340b8a04ca3cc4228b3
+.tidio.co	TRUE	/	FALSE	1999999999	__cfduid	d98463862229baa2cd5bf79893a919c8a1601382826
+code.tidio.co	TRUE	/	FALSE	1999999999	SameSite	Lax
+.tidiochat.com	TRUE	/	FALSE	1999999999	__cfduid	d599446611915942d69623aba26e67ec21601382826
+widget-v4.tidiochat.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+learnwithrobiul.com	TRUE	/	FALSE	1999999999	wp_learn_press_session_6139f81480c70f35273b28b6a20eff66	f86fabe2df597eb08587976138de973f%7C%7C1601555893%7C%7C0ff7c91eae0e6d4fa874e762ecc047da
+
